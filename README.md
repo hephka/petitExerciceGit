@@ -138,6 +138,6 @@ N'oubliez pas que vous pouvez utiliser l'option `--help` à chacune des commande
 
 6 - `git push -u origin master` de votre commit.
 
-7 - ajouter le lien de votre git
+7 - ajouter le lien de votre git dans la feuille - [Vos rendus - DWD EthersJs](https://docs.google.com/spreadsheets/d/1FxL6pwp0Xxg1t9v_F7NA47qqiwKCahVqYhMPq-lRETQ/edit#gid=501171184).
 
 
